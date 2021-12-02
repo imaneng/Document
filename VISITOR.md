@@ -30,4 +30,4 @@
 
 ## ساختار
 
-(https://refactoring.guru/images/patterns/diagrams/visitor/structure-en.png)
+[یییال](https://refactoring.guru/images/patterns/diagrams/visitor/structure-en.png)
